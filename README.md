@@ -1,3 +1,5 @@
+![Screenshot (277)](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Cheptoo-dev/assets/91537176/f63ed06b-9c67-4eba-a9ef-6dd92e8b4ec1)
+![Screenshot (276)](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Cheptoo-dev/assets/91537176/991eb078-9f66-4cde-a9a9-35b2bbcbf564)
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/vbnbTt5m)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15275724&assignment_repo_type=AssignmentRepo)
 # Dev_Setup
@@ -29,6 +31,9 @@ This assignment aims to familiarize you with the tools and configurations necess
 
 7. Set Up Development Environments and Virtualization (Optional):
    Consider using virtualization tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments across different machines.
+![Screenshot (278)](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Cheptoo-dev/assets/91537176/7f35f8d2-1fd0-4dad-9088-6fb73bbc8121)
+![Screenshot (228)](https://github.com/Powerlearnproject/se-assignment-1-setting-up-your-developer-environment-Cheptoo-dev/assets/91537176/926a4500-aafd-4090-a691-904a88a617e9)
+[Software Assignment.pdf](https://github.com/user-attachments/files/15930347/Software.Assignment.pdf)
 
 8. Explore Extensions and Plugins:
    Explore available extensions, plugins, and add-ons for your chosen text editor or IDE to enhance functionality, such as syntax highlighting, linting, code formatting, and version control integration.
